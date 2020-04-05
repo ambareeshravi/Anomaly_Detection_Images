@@ -9,5 +9,5 @@ Since there is no 'truly generic' way identify anomaly (at least not yet), we co
 For this project, I'm going to experiment different methods to detect anomalous images:
 
 1. AutoEncoders
-2. PCA / LLE + Clustering
+2. PCA / LLE + Clustering - PCA + Clustering -> inconsistent and poor results, discarded
 3. Histogram / Spectogram analysis
